@@ -1,0 +1,7 @@
+1- Take the file through command line and check if the file is correct and open it.
+2- count the frequency of all the characters
+3- declare a min heap and store all the frequncy with characters(tree) in it
+4- Pop two trees from it and add their frequencies which will become the root of those popped trees and then push that root in min heap
+5- Repeat step 4 until heap is empty
+6- Now give 0 to all the left child and 1 to all the right child
+7- Get codes for all the characters from the tree
